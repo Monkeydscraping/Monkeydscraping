@@ -50,7 +50,12 @@ Or your boss wants "all the Telegram posts about us" in a spreadsheet by Friday.
 
 ---
 
+#### 🧪 open examples
+| Repo | What it does |
+| --- | --- |
+| [social-comments-sentiment](https://github.com/Monkeydscraping/social-comments-sentiment) | Facebook & Instagram comments → a sentiment and a topic for each one, in a CSV |
+
 #### 🍳 currently cooking
-Small open examples that use these tools: a Telegram brand monitor, and a "comments → sentiment → Google Sheets" workflow.
+A weekly digest of new posts from public Facebook groups, and a Telegram brand monitor that runs on GitHub Actions.
 
 Need a source that isn't here, or something broke? Open an issue. I read them.
