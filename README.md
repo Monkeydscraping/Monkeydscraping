@@ -55,8 +55,6 @@ Or your boss wants "all the Telegram posts about us" in a spreadsheet by Friday.
 | --- | --- |
 | [social-comments-sentiment](https://github.com/Monkeydscraping/social-comments-sentiment) | Facebook & Instagram comments → a sentiment and a topic for each one, in a CSV |
 | [facebook-groups-digest](https://github.com/Monkeydscraping/facebook-groups-digest) | Weekly digest of public Facebook groups: busiest posts and a Claude recap, to Slack every Monday |
-
-#### 🍳 currently cooking
-A Telegram brand monitor that runs on GitHub Actions.
+| [telegram-brand-monitor](https://github.com/Monkeydscraping/telegram-brand-monitor) | New mentions of your brand in public Telegram channels, daily, free on GitHub Actions |
 
 Need a source that isn't here, or something broke? Open an issue. I read them.
