@@ -57,4 +57,10 @@ Or your boss wants "all the Telegram posts about us" in a spreadsheet by Friday.
 | [facebook-groups-digest](https://github.com/Monkeydscraping/facebook-groups-digest) | Weekly digest of public Facebook groups: busiest posts and a Claude recap, to Slack every Monday |
 | [telegram-brand-monitor](https://github.com/Monkeydscraping/telegram-brand-monitor) | New mentions of your brand in public Telegram channels, daily, free on GitHub Actions |
 
+#### ✍️ writing
+
+[How I monitor brand mentions on Telegram (no account, no phone number)](https://dev.to/monkeydscraping/how-i-monitor-brand-mentions-on-telegram-no-account-no-phone-number-3jln) on Dev.to: search, filter, export, then turn it into a daily monitor.
+
+---
+
 Need a source that isn't here, or something broke? Open an issue. I read them.
