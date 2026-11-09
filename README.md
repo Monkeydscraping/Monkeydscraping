@@ -61,6 +61,8 @@ Or your boss wants "all the Telegram posts about us" in a spreadsheet by Friday.
 
 [How I monitor brand mentions on Telegram (no account, no phone number)](https://dev.to/monkeydscraping/how-i-monitor-brand-mentions-on-telegram-no-account-no-phone-number-3jln) on Dev.to: search, filter, export, then turn it into a daily monitor.
 
+[What are people actually saying under that post?](https://dev.to/monkeydscraping/what-are-people-actually-saying-under-that-post-facebook-instagram-comment-sentiment-with-python-2977) on Dev.to: Facebook & Instagram comments, a sentiment and a topic for each one, Claude vs VADER.
+
 ---
 
 Need a source that isn't here, or something broke? Open an issue. I read them.
